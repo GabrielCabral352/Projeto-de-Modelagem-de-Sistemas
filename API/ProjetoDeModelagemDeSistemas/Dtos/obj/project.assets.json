@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/Domain.dll": {}
         }
-      },
-      "Dtos/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Dtos.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Dtos.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
-    },
-    "Dtos/1.0.0": {
-      "type": "project",
-      "path": "../Dtos/Dtos.csproj",
-      "msbuildProject": "../Dtos/Dtos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Domain >= 1.0.0",
-      "Dtos >= 1.0.0"
+      "Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Aplication\\Aplication.csproj",
-      "projectName": "Aplication",
-      "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Aplication\\Aplication.csproj",
+      "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj",
+      "projectName": "Dtos",
+      "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj",
       "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Aplication\\obj\\",
+      "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,9 +62,6 @@
           "projectReferences": {
             "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj"
-            },
-            "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj": {
-              "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj"
             }
           }
         }
