@@ -1,0 +1,39 @@
+# Arquivos de compilação
+*.exe
+*.dll
+*.pdb
+
+# Arquivos de pacote NuGet
+*.nupkg
+
+# Arquivos de compilação do MSBuild
+*.msi
+*.msix
+*.msixbundle
+
+# Arquivos de publicação
+/dist/
+/wwwroot/
+
+# Arquivos de registro
+*.log
+
+# Diretórios gerados
+/obj/
+/bin/
+
+# Arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.bak
+
+# Diretório de dependências do NuGet
+/packages/
+
+# Arquivos de análise de código
+*.swp
+*.swo
+*.sln.idea/
+*.vscode/
