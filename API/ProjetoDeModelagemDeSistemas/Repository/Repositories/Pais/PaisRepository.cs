@@ -1,8 +1,8 @@
-﻿using Interfaces.Repositories.Email;
-using Domain.Entities;
+﻿using Domain.Entities;
+using Interfaces.Repositories.Parents;
 using Repository.Context;
 
-namespace Repository.Repositories.Email;
+namespace Repository.Repositories.Parents;
 
 public class PaisRepository : Repository<Pais>, IPaisRepository
 {

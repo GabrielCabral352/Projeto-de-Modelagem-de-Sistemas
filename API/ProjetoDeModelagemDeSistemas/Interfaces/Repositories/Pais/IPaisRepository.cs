@@ -1,6 +1,6 @@
 ﻿using Domain.Entities;
 
-namespace Interfaces.Repositories.Email;
+namespace Interfaces.Repositories.Parents;
 
 public interface IPaisRepository :
     IGetByIdAsync<Pais>,

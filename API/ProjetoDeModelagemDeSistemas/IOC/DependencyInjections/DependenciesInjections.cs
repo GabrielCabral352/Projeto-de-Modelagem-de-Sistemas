@@ -1,8 +1,8 @@
 ﻿using Repository.Transaction;
 using Microsoft.Extensions.DependencyInjection;
-using Repository.Repositories.Email;
-using Interfaces.Repositories.Email;
 using Interfaces.Transactions;
+using Interfaces.Repositories.Parents;
+using Repository.Repositories.Parents;
 
 namespace IOC.DependencyInjections;
 
