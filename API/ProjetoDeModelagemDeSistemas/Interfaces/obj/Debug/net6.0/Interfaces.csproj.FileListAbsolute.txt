@@ -1,0 +1,12 @@
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

@@ -5,17 +5,17 @@ public class Crianca : Entity
     public string NomeCompleto { get; private set; }
     public string Cpf { get; private set; }
     public string UserName { get; set; }
-    public Pais idPais { get; set; }
-    public string dataNascimento { get; set; }
-    public int pontuacao { get; set; }
+    public Pais IdPais { get; set; }
+    public string DataNascimento { get; set; }
+    public int Pontuacao { get; set; }
 
-    public Crianca(string NomeCompleto,string Cpf, string UserName, Pais idPais, string dataNascimento, int pontuacao)
+    public Crianca(string nomeCompleto, string cpf, string userName, Pais idPais, string dataNascimento, int pontuacao)
     {
-        NomeCompleto = NomeCompleto
-        Cpf = Cpf
-        UserName = UserName
-        idPais = idPais
-        dataNascimento = dataNascimento
-        pontuacao = pontuacao
+        NomeCompleto = nomeCompleto;
+        Cpf = cpf;
+        UserName = userName;
+        IdPais = idPais;
+        DataNascimento = dataNascimento;
+        Pontuacao = pontuacao;
     }
 }

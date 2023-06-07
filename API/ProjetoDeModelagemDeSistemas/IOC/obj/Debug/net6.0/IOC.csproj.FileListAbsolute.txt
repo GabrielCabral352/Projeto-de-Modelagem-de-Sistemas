@@ -1,0 +1,12 @@
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\bin\Debug\net6.0\IOC.deps.json
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\bin\Debug\net6.0\IOC.dll
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\bin\Debug\net6.0\IOC.pdb
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\IOC.csproj.AssemblyReference.cache
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\IOC.AssemblyInfoInputs.cache
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\IOC.AssemblyInfo.cs
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\IOC.csproj.CoreCompileInputs.cache
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\IOC.dll
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\refint\IOC.dll
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\IOC.pdb
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\IOC\obj\Debug\net6.0\ref\IOC.dll
