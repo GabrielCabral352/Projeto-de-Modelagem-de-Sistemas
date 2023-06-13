@@ -4,14 +4,14 @@
     "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj": {
+    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj",
-        "projectName": "IOC",
-        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj",
+        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\obj\\",
+        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,426 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj",
+        "projectName": "Dtos",
+        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj",
+        "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sda-iatec.pkgs.visualstudio.com/_packaging/SandalsShared%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sda-iatec.pkgs.visualstudio.com/_packaging/SandalsShared%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Dtos\\Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sda-iatec.pkgs.visualstudio.com/_packaging/SandalsShared%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sda-iatec.pkgs.visualstudio.com/_packaging/SandalsShared%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj",
+        "projectName": "IOC",
+        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\IOC.csproj",
+        "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sda-iatec.pkgs.visualstudio.com/_packaging/SandalsShared%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\eric.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sda-iatec.pkgs.visualstudio.com/_packaging/SandalsShared%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\eric.oliveira\\Dev\\Projeto-de-Modelagem-de-Sistemas\\API\\ProjetoDeModelagemDeSistemas\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
