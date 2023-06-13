@@ -5,9 +5,9 @@ public class CriancaRecompensa : Entity
 
     public Crianca IdCrianca { get; set; }
     public Recompensa IdRecompensa { get; set; }
-    public string DataResgate { get; set; }
+    public DateTime DataResgate { get; set; }
 
-    public CriancaRecompensa(Crianca idCrianca, Recompensa idRecompensa, string dataResgate)
+    public CriancaRecompensa(Crianca idCrianca, Recompensa idRecompensa, DateTime dataResgate)
     {
         IdCrianca = idCrianca;
         IdRecompensa = idRecompensa;

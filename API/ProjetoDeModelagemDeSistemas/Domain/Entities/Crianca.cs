@@ -18,4 +18,24 @@ public class Crianca : Entity
         DataNascimento = dataNascimento;
         Pontuacao = pontuacao;
     }
+
+    public void adicionarPontos(int pontos)
+    {
+        if (pontos < 0) 
+        {
+            pontos *= -1;
+        }
+
+        Pontuacao += pontos;
+    }
+
+    public void removerPontos(int pontos)
+    {
+        if (pontos < 0) 
+        {
+            pontos *= -1;
+        }
+
+        Pontuacao -= pontos;
+    }
 }

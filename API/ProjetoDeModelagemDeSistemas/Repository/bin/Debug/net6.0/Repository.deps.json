@@ -537,7 +537,16 @@
           "Domain.dll": {}
         }
       },
+      "Dtos/1.0.0": {
+        "runtime": {
+          "Dtos.dll": {}
+        }
+      },
       "Interfaces/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Dtos": "1.0.0"
+        },
         "runtime": {
           "Interfaces.dll": {}
         }
@@ -901,6 +910,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dtos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

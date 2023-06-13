@@ -13,4 +13,9 @@ public class CriancaAtividade : Entity
         IdAtividade = idAtividade;
         Realizado = realizado;
     }
+
+    public void finalizarTarefa()
+    {
+        Realizado = true;
+    }
 }

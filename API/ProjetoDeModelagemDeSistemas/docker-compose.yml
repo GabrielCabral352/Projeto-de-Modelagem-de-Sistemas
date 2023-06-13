@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  api:
+    image: ${DOCKER_REGISTRY-}api
+    build:
+      context: .
+      dockerfile: Api/Dockerfile
+    depends_on:
+       - db
+    ports: 
+       - 80:80
+  db:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: your_password
+      MYSQL_DATABASE: ModelagemDeDados
+      MYSQL_USER: modelagemDeDadosDev
+      MYSQL_PASSWORD: your_password
+    ports:
+      - 3306:3306

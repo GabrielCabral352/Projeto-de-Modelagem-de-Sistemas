@@ -1,6 +1,3 @@
-C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\bin\Debug\net6.0\Domain.deps.json
-C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\bin\Debug\net6.0\Domain.dll
-C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\bin\Debug\net6.0\Domain.pdb
 C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
 C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
@@ -9,4 +6,7 @@ C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelag
 C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\bin\Debug\net6.0\Domain.pdb
 C:\Users\eric.oliveira\Dev\Projeto-de-Modelagem-de-Sistemas\API\ProjetoDeModelagemDeSistemas\Domain\obj\Debug\net6.0\ref\Domain.dll
