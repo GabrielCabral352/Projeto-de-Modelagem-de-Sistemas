@@ -79,6 +79,7 @@ O sistema de gestão de brindes possui as seguintes funcionalidades:
 
 5. Histórico de Tarefas e Pontuações: O sistema mantém um histórico das tarefas realizadas pela criança, juntamente com as pontuações atribuídas pelos pais.
 
+Obs: Os diagramas do projeto podem ser encotrados em: https://github.com/GabrielCabral352/Projeto-de-Modelagem-de-Sistemas/tree/main/Diagramas
 ## Tecnologias Utilizadas
 
 A API foi desenvolvida utilizando as seguintes tecnologias:
