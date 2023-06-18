@@ -52,3 +52,10 @@ curl -X GET http://localhost:5000/api/endpoint
 ```
 Substitua `/api/endpoint` pelo caminho do endpoint específico que deseja acessar.
 
+## Considerações finais
+
+Essas são as etapas básicas para executar uma API em .NET. Lembre-se de que o processo pode variar dependendo do projeto e das configurações específicas que você está usando. Consulte a documentação oficial do .NET ou o arquivo README fornecido no projeto para obter informações mais detalhadas e específicas sobre a API que você está executando.
+
+Divirta-se explorando e desenvolvendo com sua API em .NET!
+
+
