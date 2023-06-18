@@ -60,4 +60,48 @@ Divirta-se explorando e desenvolvendo com sua API em .NET!
 
 ##
 <br><br>
-a
+
+# Projeto de API para Gestão de Brindes para Crianças
+
+Este projeto consiste em uma API desenvolvida em .NET com o objetivo de fornecer um sistema de gestão de brindes para crianças, baseado na conclusão de tarefas propostas pelos pais. O sistema tem como objetivo incentivar as crianças a realizarem suas tarefas diárias, como fazer a lição de casa, arrumar o quarto ou ajudar nas tarefas domésticas, oferecendo recompensas na forma de brindes.
+
+## Funcionalidades
+
+O sistema de gestão de brindes possui as seguintes funcionalidades:
+
+1. Cadastro de Tarefas: Os pais podem cadastrar as tarefas que desejam que seus filhos realizem. Cada tarefa tem uma descrição, uma pontuação e uma categoria.
+
+2. Atribuição de Pontuação: Após a conclusão de uma tarefa, os pais podem atribuir uma pontuação à criança, que será acumulada em sua conta.
+
+3. Catálogo de Brindes: Existe um catálogo de brindes disponíveis, contendo diversos itens que as crianças podem resgatar com suas pontuações acumuladas.
+
+4. Resgate de Brindes: As crianças podem resgatar os brindes disponíveis no catálogo, utilizando suas pontuações acumuladas. O sistema registra o resgate e atualiza o saldo de pontuação da criança.
+
+5. Histórico de Tarefas e Pontuações: O sistema mantém um histórico das tarefas realizadas pela criança, juntamente com as pontuações atribuídas pelos pais.
+
+## Tecnologias Utilizadas
+
+A API foi desenvolvida utilizando as seguintes tecnologias:
+
+- Linguagem de Programação: C#.
+- Framework: .NET.
+- Banco de Dados: Pode ser utilizado um banco de dados relacional, como SQL Server ou MySQL, para armazenar as informações sobre tarefas, pontuações e brindes.
+- Estrutura da API: Pode ser utilizado o framework ASP.NET Core para criar a estrutura da API, definindo rotas, controladores e serviços.
+
+## Próximos Passos
+
+Alguns possíveis próximos passos para expandir o projeto podem incluir:
+
+- Implementação de autenticação e autorização para pais e crianças.
+- Melhorias na interface de usuário, com a criação de uma aplicação web ou aplicativo móvel para facilitar o gerenciamento das tarefas e brindes.
+- Integração com serviços externos para notificar os pais sobre a conclusão das tarefas ou permitir que eles acompanhem o progresso dos filhos.
+
+## Contribuição
+
+Se você deseja contribuir para o projeto, fique à vontade para fazer um fork do repositório, implementar melhorias e enviar um pull request.
+
+Esperamos que este projeto seja útil para incentivar e recompensar as crianças na conclusão de suas tarefas. Divirta-se desenvolvendo e gerenciando brindes com a API em .NET!
+
+*Observação: Este é um exemplo fictício de descrição de um projeto em API feito em .NET para gestão de brindes para crianças. Os detalhes técnicos e funcionais podem variar dependendo dos requisitos e especificações do projeto real.*
+``
+
