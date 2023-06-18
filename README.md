@@ -17,6 +17,7 @@ Antes de começar, verifique se você possui os seguintes pré-requisitos instal
 
 ```shell
 dotnet restore
+```
 
 ## Passo 2: Configuração do banco de dados (se necessário)
 
