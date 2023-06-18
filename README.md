@@ -25,3 +25,22 @@ Se a sua API utiliza um banco de dados, você precisa configurar a conexão ante
 
 1. Abra o arquivo de configuração da API, geralmente chamado `appsettings.json` ou `appsettings.Development.json`.
 2. Procure a seção relacionada ao banco de dados e verifique se as informações de conexão estão corretas. Certifique-se de que o servidor, o nome do banco de dados, o usuário e a senha estejam configurados corretamente.
+
+## Passo 3: Executando a API
+
+1. Execute o seguinte comando para compilar o projeto:
+
+```shell
+dotnet build
+```
+
+2. Após a conclusão da compilação, execute o seguinte comando para iniciar a API:
+
+
+```shell
+dotnet run
+```
+
+3. A API agora está em execução. Você verá uma mensagem no terminal indicando em qual endereço a API está ouvindo (por exemplo, `http://localhost:5000`).
+
+
