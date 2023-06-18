@@ -43,4 +43,12 @@ dotnet run
 
 3. A API agora está em execução. Você verá uma mensagem no terminal indicando em qual endereço a API está ouvindo (por exemplo, `http://localhost:5000`).
 
+## Testando a API
+
+Agora que a API está em execução, você pode testá-la usando uma ferramenta como o Postman ou o curl no terminal. Aqui está um exemplo de como você pode fazer uma solicitação HTTP para a API:
+
+```shell
+curl -X GET http://localhost:5000/api/endpoint
+```
+Substitua `/api/endpoint` pelo caminho do endpoint específico que deseja acessar.
 
